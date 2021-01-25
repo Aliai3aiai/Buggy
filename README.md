@@ -1,4 +1,4 @@
-# Buggy
+# Buggy:beetle:
 A simple issue tracking system in Django 3.1.5
 
 
