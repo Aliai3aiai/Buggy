@@ -1,7 +1,7 @@
 # Buggy
 A simple issue tracking system in Django 3.1.5
 
-..Work on progress..
+..Work in progress..
 
 Current progress:
 
